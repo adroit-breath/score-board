@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+background: #1B244A;        
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+color: #EEEEEE;
+text-align: center;
+}
+
+.container div h4{
+    font-family: 'cursed-timer-ulil-regular', sans-serif;
+font-size: 90px;
+font-weight: 400;
+line-height: 127px;
+letter-spacing: 0em;
+text-align: center;
+    text-align: center;
+    padding: 1em;
+    background: black;
+    color: red;
+}
+
+.btn{
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    padding: 1em;
+    color: #9AABD8;
+}
+.btns #increment-btn{
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    padding: 1em;
+    color: #9AABD8;
+}
